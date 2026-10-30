@@ -1,0 +1,4 @@
+dataset,step,records_changed,note
+LC,emp_length to ordered years; NI flagged,78188,NI stays missing in emp_length_years and is identified by emp_ni
+LC,Rare purpose categories merged into rare_purpose,3709,"educational, renewable_energy, wedding"
+HC,NAME_INCOME_TYPE tiny groups merged into Other,55,"Maternity leave, Businessman, Student, Unemployed"

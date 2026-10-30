@@ -1,0 +1,29 @@
+{
+  "primary": [
+    "revenue",
+    "dti_n",
+    "loan_amnt",
+    "fico_n",
+    "emp_length",
+    "purpose",
+    "home_ownership_n"
+  ],
+  "target": [
+    "Default"
+  ],
+  "identifier": [
+    "id"
+  ],
+  "time_validation": [
+    "issue_d"
+  ],
+  "audit": [
+    "addr_state",
+    "zip_code"
+  ],
+  "excluded": [
+    "experience_c",
+    "title",
+    "desc"
+  ]
+}

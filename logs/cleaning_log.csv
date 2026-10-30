@@ -1,0 +1,9 @@
+dataset,step,records_changed,note
+LC,dti_n > 100 to missing + flag,533,"38 at 999, 495 other"
+LC,revenue winsorized at 99.9th pct,1347,"cap = 585,000"
+LC,zip_code missing to unknown,1,
+HC,DAYS_EMPLOYED placeholder to missing + flag,55374,
+HC,ORGANIZATION_TYPE XNA to Not applicable,55374,
+HC,OCCUPATION_TYPE missing split,96391,"pensioner 55357, unknown 41034"
+HC,EXT_SOURCE_3 missing indicator added,60965,imputation deferred to pipeline
+HC,AMT_INCOME_TOTAL winsorized at 99.9th pct,278,"cap = 900,000"

@@ -1,0 +1,9 @@
+dataset,attribute,non_missing,missing,min,max
+HC,age_years,307511,0,20.504,69.073
+HC,credit_to_income,307511,0,0.083,84.737
+HC,annuity_to_income,307499,12,0.007,1.876
+HC,credit_minus_goods,307233,278,-765000.0,540000.0
+HC,employment_years,252137,55374,-0.0,49.04
+HC,goods_price_missing,307511,0,0.0,1.0
+HC,age_band,307511,0,,
+LC,loan_to_income,1347681,0,0.002,1.337

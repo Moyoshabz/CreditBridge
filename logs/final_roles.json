@@ -1,0 +1,67 @@
+{
+  "LC": {
+    "predictors": [
+      "revenue",
+      "dti_n",
+      "loan_amnt",
+      "fico_n",
+      "emp_length_years",
+      "emp_ni",
+      "purpose",
+      "home_ownership_n",
+      "dti_n_extreme",
+      "loan_to_income"
+    ],
+    "target": [
+      "Default"
+    ],
+    "identifier": [
+      "id"
+    ],
+    "time_validation": [
+      "issue_d"
+    ],
+    "audit": [
+      "addr_state",
+      "zip_code"
+    ]
+  },
+  "HC": {
+    "predictors": [
+      "NAME_CONTRACT_TYPE",
+      "AMT_CREDIT",
+      "AMT_ANNUITY",
+      "AMT_INCOME_TOTAL",
+      "NAME_INCOME_TYPE",
+      "OCCUPATION_TYPE",
+      "ORGANIZATION_TYPE",
+      "NAME_EDUCATION_TYPE",
+      "NAME_HOUSING_TYPE",
+      "EXT_SOURCE_2",
+      "EXT_SOURCE_3",
+      "employment_years",
+      "not_employed_flag",
+      "ext3_missing",
+      "credit_to_income",
+      "annuity_to_income",
+      "credit_minus_goods",
+      "goods_price_missing"
+    ],
+    "target": [
+      "TARGET"
+    ],
+    "identifier": [
+      "SK_ID_CURR"
+    ],
+    "time_validation": [],
+    "audit": [
+      "CODE_GENDER",
+      "NAME_FAMILY_STATUS",
+      "REGION_POPULATION_RELATIVE",
+      "REGION_RATING_CLIENT",
+      "REGION_RATING_CLIENT_W_CITY",
+      "age_years",
+      "age_band"
+    ]
+  }
+}
