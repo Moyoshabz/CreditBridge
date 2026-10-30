@@ -69,4 +69,4 @@ LendingClub md5 (from Zenodo): `b019384d6bc65bf2a3e839362e4ff502`.
 
 ## Author
 
-Moyosola Fadiya. **[Applied Data Science Project,Nicholas Nardi, Fall 2026]**
+Moyosola Fadiya. Applied Data Science Project. Nicholas Nardi. Fall 2026.
