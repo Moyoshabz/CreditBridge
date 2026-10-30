@@ -1,0 +1,9 @@
+
+# Raw datasets - do not commit
+data/raw/
+LC_loans_granting_model_dataset.csv
+application_train.csv
+
+# Serialized model files - do not commit
+*.pkl
+*.joblib
