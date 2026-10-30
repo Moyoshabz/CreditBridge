@@ -1,0 +1,10 @@
+dataset,model,year,n,roc_auc
+LendingClub,logistic_regression,2016,293057,0.6606
+LendingClub,logistic_regression,2017,169117,0.6704
+LendingClub,logistic_regression,2018,56160,0.6692
+LendingClub,decision_tree,2016,293057,0.6492
+LendingClub,decision_tree,2017,169117,0.6546
+LendingClub,decision_tree,2018,56160,0.652
+LendingClub,gradient_boosting,2016,293057,0.6625
+LendingClub,gradient_boosting,2017,169117,0.6725
+LendingClub,gradient_boosting,2018,56160,0.6748

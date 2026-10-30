@@ -1,0 +1,7 @@
+dataset,model,test_no_skill,n_iter_used,val_roc_auc,val_pr_auc,test_roc_auc,test_pr_auc
+LendingClub,logistic_regression,0.2242,[29],0.662,0.3157,0.6662,0.3521
+LendingClub,decision_tree,0.2242,,0.6521,0.3075,0.6531,0.3379
+LendingClub,gradient_boosting,0.2242,164,0.6659,0.3238,0.6684,0.3549
+Home Credit,logistic_regression,0.0807,[85],0.7338,0.2127,0.7367,0.22
+Home Credit,decision_tree,0.0807,,0.7117,0.1875,0.7186,0.1984
+Home Credit,gradient_boosting,0.0807,125,0.7399,0.2188,0.7439,0.2282

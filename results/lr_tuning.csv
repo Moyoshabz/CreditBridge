@@ -1,0 +1,9 @@
+dataset,C,val_pr_auc,val_roc_auc
+LendingClub,0.01,0.3158,0.662
+LendingClub,0.1,0.3157,0.662
+LendingClub,1.0,0.3157,0.662
+LendingClub,10.0,0.3157,0.662
+Home Credit,0.01,0.2131,0.7338
+Home Credit,0.1,0.2128,0.7338
+Home Credit,1.0,0.2127,0.7338
+Home Credit,10.0,0.2127,0.7337
